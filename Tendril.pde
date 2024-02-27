@@ -1,4 +1,3 @@
-TENDRIL.PDE
 
 public class Tendril {
     public final static int SEG_LENGTH = 3; // length of each segment in the tendril
